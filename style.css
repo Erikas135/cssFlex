@@ -1,0 +1,46 @@
+.kartojamesPosition{
+	posiotion:realative;
+	width: 300px;
+	height: 100px;
+	background-color:#00b7ff;
+}
+h6{
+	position: absolute;
+}
+.container{
+	display: flex;
+	background-color: #09ff00;
+}
+.mazas{
+	width: 200px;
+	height: 150px;
+	background-color: #ffb900;
+	margin: 5px;
+}
+.container-perkelti{
+
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #09ff00; 
+}
+.kita{
+	width: 200px;
+	height: 150px;
+	background-color: #00ffc3;
+	margin: 5px; 
+}
+#viduryje{
+	display: flex;
+	background-color: #09ff00;
+	height: 150px;
+	justify-content: center;
+	align-items: center;
+}
+.parent {
+	display: flex;
+	height: 300px; /* Or whatever */
+}
+div {
+	display: flex;
+	justify-content: center;
+}
