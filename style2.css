@@ -1,0 +1,24 @@
+ul {
+	display: flex; 
+	list-style: none;
+}
+.links-list {
+
+}
+
+.navbar  {
+	background-color: #ffb900;
+	position: relative;
+	width: 259px;
+	height: 39px;
+	color: #ffb900;
+	text-decoration: none;
+	padding: 1em;
+	letter-spacing: 2.5px;
+	text-indent: 25px;
+}
+
+.links-list a:hover {
+	background-color: #ffb900;
+	color: #ffb900;
+}
